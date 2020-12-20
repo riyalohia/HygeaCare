@@ -1,5 +1,6 @@
 {
   "name": "hygeacare",
+  "homepage": "http://hygeacare.in",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
